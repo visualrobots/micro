@@ -70,7 +70,7 @@
     "async-to-gen": "1.1.4",
     "isstream": "0.1.2",
     "media-typer": "0.3.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.5",
     "raw-body": "2.1.7"
   }
 }
